@@ -29,8 +29,8 @@ This project focuses on analyzing marketing behavior data to uncover customer in
 
 ### **4. Tools & Libraries:**
 
-  - Pandas, NumPy: _Data manipulation and analysis._
+  - **Pandas, NumPy:** Data manipulation and analysis.
 
-  - Matplotlib, Seaborn: _Data visualization._
+  - **Matplotlib, Seaborn:** Data visualization.
 
-  - Scikit-learn: _Clustering and feature scaling._
+  - **Scikit-learn:** Clustering and feature scaling.
