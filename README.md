@@ -15,7 +15,7 @@ This project focuses on analyzing marketing behavior data to uncover customer in
 
    - Identified correlations and patterns using heatmaps and pairplots.
 
-### 👥**3. Customer Segmentation:**
+### 👥 **3. Customer Segmentation:**
 
    - Determined the optimal number of clusters using the Elbow Method and Silhouette Score.
 
