@@ -27,7 +27,7 @@ This project focuses on analyzing marketing behavior data to uncover customer in
 
   - Visualized clusters for better interpretation.
 
-### **Tools & Libraries:**
+### **4. Tools & Libraries:**
 
   - Pandas, NumPy: _Data manipulation and analysis._
 
