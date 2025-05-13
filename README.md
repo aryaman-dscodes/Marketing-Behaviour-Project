@@ -3,13 +3,13 @@ This project focuses on analyzing marketing behavior data to uncover customer in
 
 ## **Project Highlights:**
 
-**1. Data Cleaning & Preprocessing:**
+### **1. Data Cleaning & Preprocessing:**
   
   - Handled missing values.
 
   - Scaled numerical features to ensure balanced clustering.
 
-**2. Exploratory Data Analysis (EDA):**
+### **2. Exploratory Data Analysis (EDA):**
 
   - Visualized feature distributions.
 
@@ -21,13 +21,13 @@ This project focuses on analyzing marketing behavior data to uncover customer in
 
   - Grouped customers into segments using K-Means clustering.
 
-**3. Results:**
+### **3. Results:**
 
   - Segmentation results saved in Clustered_Marketing_Data.csv.
 
   - Visualized clusters for better interpretation.
 
-**Tools & Libraries:**
+### **Tools & Libraries:**
 
   - Pandas, NumPy: _Data manipulation and analysis._
 
